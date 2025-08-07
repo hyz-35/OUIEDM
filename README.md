@@ -14,4 +14,4 @@ We use a underwater camera captured real-world underwater image datasets in Shen
 
 <div align=center><img src="effect.png" width="500" height="400" > 
 
-<div align=left><div>
+<div align=center><img src="effect.mp4" width="1000" height="500">
