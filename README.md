@@ -8,7 +8,7 @@
 ## Datasets
 Real Underwater Data for [google drive] and [Baidu Drive] are released.
 
-We use a underwater camera captured real-world underwater image datasets in Shenzhen, Guangdong province, China. The dataset includes 300 images for [google drive] and [Baidu Drive] are released.If you want to use the LSUI dataset, please cite our [paper].
+We use a underwater camera captured real-world underwater image datasets in Shenzhen, Guangdong province, China. The dataset includes 300 images for [google drive] and [Baidu Drive] are released. If you want to use the LSUI dataset, please cite our [paper].
 <div align=left><div>
   
 ## Underwater Enhancement and dehazing
