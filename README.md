@@ -14,4 +14,4 @@ We use a underwater camera captured real-world underwater image datasets in Shen
 ## Underwater Enhancement and dehazing
 
 <div align=center><img src="effect.png" width="500" height="400" >
-https://github.com/user-attachments/assets/6151b30b-7055-4bda-b054-c73bb1c60357
+<video src="[https://github.com/user-attachments/assets/6151b30b-7055-4bda-b054-c73bb1c60357]" controls width="500"></video>
