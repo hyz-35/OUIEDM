@@ -1,7 +1,7 @@
 
 <div align=left><div>
 
-# OUIEDM: An Unsupervised Underwater Image-Restoration Network Using Polarization
+# OUIEDM: Underwater Image Enhancement with One-step Diffusion Model
 
 <div align=left><div>
 
