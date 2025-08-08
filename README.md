@@ -13,6 +13,6 @@ We use a underwater camera captured real-world underwater video in Shenzhen, Gua
   
 ## Underwater Enhancement and dehazing
 
-<div align=center><img src="effect.jpg" width="500" height="400" > <img src="effect1.gif" width="500" height="400" >
+<div align=center><img src="images_effect\effect.jpg" width="500" height="400" > <img src="images_effect\effect1.gif" width="500" height="400" >
 
 <div align=left><div>
