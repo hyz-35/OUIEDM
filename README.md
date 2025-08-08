@@ -22,7 +22,8 @@ For the test environmental requirements, you can install from the requirements.t
 pip install -r requirements.txt
 
 
-```<br>## Underwater Enhancement and dehazing
+```<br>
+## Underwater Enhancement and dehazing
 
 <div align=center><img src="images_effect\effect.jpg" width="500" height="400" > <img src="images_effect\effect.gif" width="500" height="400" >
 
