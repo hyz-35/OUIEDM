@@ -22,3 +22,4 @@ You can download the pretrain models in [Google Drive].
 
 After downloading, extract the pretrained model into the project folder and replace the checkpoint folder, and then run test.OUIEDM.py. 
 The code will use the pretrained model to automatically process all the images in your input folder and output the results to your output folder. 
+Environmental requirements:
