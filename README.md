@@ -14,7 +14,7 @@ We use a underwater camera captured real-world underwater video in Shenzhen, Gua
 You can download the pretrain models in [Google Drive].
 
 After downloading, extract the pretrained model into the project folder and replace the checkpoint folder, and then run test_OUIEDM.py. 
-The code will use the pretrained model to automatically process all the images in your input folder and output the results to your output folder. 
+The code will use the pretrained model to automatically process all the images in your input folder and output the results to your output folder. Our method accepts input images of 512x512 resolution.
 
 For the test environmental requirements, you can install from the requirements.txt using the following code or build the environmental requirements on your own.
 ```python
